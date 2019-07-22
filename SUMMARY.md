@@ -1,0 +1,1 @@
+* [How to be a studay overlord?](md/HowTo.md)
